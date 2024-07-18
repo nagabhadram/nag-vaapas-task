@@ -1,0 +1,25 @@
+.movie-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.movie-card h3 {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.movie-card p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #555;
+}
